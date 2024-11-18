@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6738bd3f6b53b55e90f00b89"
+  },
+  " destination": "Trichur",
+  "startDate": "2024-11-20",
+  "endDate": "2024-11-22",
+  "activities": [
+    "sight-seeing",
+    "visit museums"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b55ff6b53b55e90f00b8c"
+  },
+  " destination": "Idukki",
+  "startDate": "2024-11-21",
+  "endDate": "2024-11-23",
+  "activities": [
+    "sight-seeing",
+    "dam view"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b56696b53b55e90f00b8d"
+  },
+  " destination": "kodaikanal",
+  "startDate": "2024-11-24",
+  "endDate": "2024-11-26",
+  "activities": [
+    "guna cave view",
+    "cycling"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b56af6b53b55e90f00b8e"
+  },
+  " destination": "Mysore",
+  "startDate": "2024-11-19",
+  "endDate": "2024-11-22",
+  "activities": [
+    "garden view",
+    "palace view"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673b56e86b53b55e90f00b8f"
+  },
+  " destination": "Alappuzha",
+  "startDate": "2024-11-25",
+  "endDate": "2024-11-26",
+  "activities": [
+    "House Boat view",
+    "Boat race"
+  ]
+}]
