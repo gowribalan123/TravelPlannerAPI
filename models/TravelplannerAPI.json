@@ -4,11 +4,11 @@
   },
   " destination": "Trichur",
   "startDate": "2024-11-20",
-  "endDate": "2024-11-22",
+  "endDate": "2024-11-23",
   "activities": [
     "sight-seeing",
     "visit museums"
-  ]
+               ]
 },
 {
   "_id": {
@@ -50,7 +50,7 @@
   "_id": {
     "$oid": "673b56e86b53b55e90f00b8f"
   },
-  " destination": "Alappuzha",
+  "destination": "Alappuzha",
   "startDate": "2024-11-25",
   "endDate": "2024-11-26",
   "activities": [

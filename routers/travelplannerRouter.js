@@ -2,7 +2,7 @@ const express=require('express')
 const travelplannerRouter=express.Router()
 const {getTravelplans,getTravelplanById,createTravelplan,updateTravelplan,deleteTravelplan}=require('../controllers/travelplannerController')
 
-//const travelplannerRouter = require('../models/travelplannerRouter')
+
 
 //localhost:3000/Travelplans
 travelplannerRouter.get('/',getTravelplans)
@@ -11,6 +11,7 @@ travelplannerRouter.get('/',getTravelplans)
 travelplannerRouter.get('/:id',getTravelplanById)
 
 //create Travelplans
+ 
 travelplannerRouter.post('/',createTravelplan)
 
 

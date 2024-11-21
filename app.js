@@ -7,6 +7,7 @@ app.get('/',(req,res)=>{
     res.send("Hello")
 
 })
+
 app.use(express.json())
 app.use('/travelplans',travelplannerRouter)
 

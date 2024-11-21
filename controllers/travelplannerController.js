@@ -29,7 +29,7 @@ const getTravelplanById=async(req,res)=>{
 //create
 const createTravelplan=async(req,res)=>{
     try{
-        const{destination,startDate,endDate,activities}=req.body
+        const {destination,startDate,endDate,activities}=req.body
         const newTravelplan = new TravelplanData({destination,startDate,endDate,activities})
         await newTravelplan.save()
         res.status(201).json(newTravelplan)
